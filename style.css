@@ -1,0 +1,13 @@
+img {
+    width: 18%;
+    height: 160px;
+}
+img#img1:hover {
+	cursor:pointer;
+}
+.show {
+    display: inline;
+}
+.hide {
+    display: none;
+}
